@@ -1,7 +1,5 @@
 # Seed
 
-[![CI](https://github.com/Fengrru/seed/actions/workflows/ci.yml/badge.svg)](https://github.com/Fengrru/seed/actions/workflows/ci.yml)
-
 A self-hosting agent: a stable kernel loop over a writable, versioned, evidence-backed self.
 
 The agent runs a goal by repeatedly asking a model for the next step, executing it through a

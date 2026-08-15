@@ -4,6 +4,15 @@
   "private": true,
   "license": "MIT",
   "description": "Seed: a self-hosting agent with a stable kernel over a writable, versioned, evidence-backed self.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fengrru/seed.git"
+  },
+  "homepage": "https://github.com/Fengrru/seed#readme",
+  "bugs": {
+    "url": "https://github.com/Fengrru/seed/issues"
+  },
+  "keywords": ["agent", "llm", "self-improving", "sqlite", "bun"],
   "type": "module",
   "scripts": {
     "typecheck": "tsc --noEmit",
